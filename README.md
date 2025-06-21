@@ -81,20 +81,20 @@ Mapa de hotspots com correlações
 
 brasilia-segura/
 ├── app/
-│   ├── (auth)/         # Login/Registro
-│   ├── (app)/          # App do cidadão
-│   ├── (admin)/        # Painel administrativo
-│   └── layout.tsx      # Layout PWA
+│   ├── (auth)/         # Login/Registro
+│   ├── (app)/          # App do cidadão
+│   ├── (admin)/        # Painel administrativo
+│   └── layout.tsx      # Layout PWA
 ├── components/
-│   ├── ui/            # shadcn/ui
-│   └── features/      # Componentes específicos
+│   ├── ui/            # shadcn/ui
+│   └── features/      # Componentes específicos
 ├── lib/
-│   ├── mock/          # Dados mockados
-│   ├── contexts/      # Contextos React
-│   └── utils/         # Utilitários
+│   ├── mock/          # Dados mockados
+│   ├── contexts/      # Contextos React
+│   └── utils/         # Utilitários
 └── public/
-    ├── icons/         # Ícones PWA
-    └── manifest.json  # Manifesto
+    ├── icons/         # Ícones PWA
+    └── manifest.json  # Manifesto
     
 👥 Créditos
 Desenvolvido para o Hackathon Campus Party 2025 - Desafio Cidade + Segura
