@@ -121,8 +121,10 @@ Desenvolvido para o **Hackathon Campus Party 2025** - Desafio Cidade + Segura
 ## 📄 Notas
 
 Este é um projeto demonstrativo com dados totalmente mockados para fins de apresentação no hackathon.
-## 🚀 Conheça nosso App
+## 🚀 Nosso App
 
-Acesse a demonstração da aplicação clicando no link abaixo:
+O **Brasília Segura** é uma aplicação progressiva (PWA) criada para fortalecer a segurança na comunidade, permitindo que os cidadãos reportem incidentes e acessem informações importantes.
 
-**[https://tavaresgmg.github.io/brasilia-segura/home/](https://tavaresgmg.github.io/brasilia-segura/home/)** 
+Para explorar a aplicação em tempo real e conhecer suas funcionalidades, clique no botão abaixo:
+
+[![Acessar o App](https://img.shields.io/badge/Acessar%20o%20App-Brasília%20Segura-%233498DB?style=for-the-badge&logo=rocket)](https://tavaresgmg.github.io/brasilia-segura/home/)
