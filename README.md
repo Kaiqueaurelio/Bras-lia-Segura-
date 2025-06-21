@@ -13,6 +13,7 @@ Brasília Segura é uma solução inovadora que permite aos cidadãos reportarem
 🤖 IA Preditiva: Simulação visual de análise de padrões e previsão de riscos
 📊 Dashboard Admin: Gestão completa com gráficos e métricas
 🏆 Gamificação: Sistema de pontos e rankings para engajamento cidadão
+
 🚀 Tecnologias
 Next.js 15 - Framework React com App Router
 TypeScript - Tipagem estática para maior segurança
@@ -20,6 +21,7 @@ Tailwind CSS - Estilização moderna e responsiva
 shadcn/ui - Componentes UI acessíveis e bonitos
 PWA - next-pwa com Serwist para funcionalidade offline
 Zustand - Gerenciamento de estado simples e eficiente
+
 🛠️ Instalação
 # Clone o repositório
 git clone https://github.com/seu-usuario/brasilia-segura.git
@@ -32,11 +34,13 @@ npm install
 
 # Inicie o servidor de desenvolvimento
 npm run dev
+
 📦 Scripts
-npm run dev - Inicia servidor de desenvolvimento
+- npm run dev - Inicia servidor de desenvolvimento
 npm run build - Cria build de produção
 npm run start - Inicia servidor de produção
 npm run lint - Executa linter
+
 🌐 Deploy no GitHub Pages
 O app está configurado para deploy automático:
 
@@ -59,17 +63,20 @@ Login com email terminando em @admin.com
 Acesse dashboard com métricas em tempo real
 Visualize predições de IA e hotspots
 Gerencie reportes e tome ações
+
 🏛️ Dados Realistas de Brasília
 35 Regiões Administrativas com coordenadas GPS reais
 500+ reportes simulados com distribuição ponderada
 Maior concentração em Ceilândia e Samambaia (baseado em dados reais)
 8 categorias de problemas urbanos
+
 🤖 Inteligência Artificial Visual
 Predições de risco para próximos 30 dias
 Análise de tendências por categoria
 Mapa de hotspots com correlações
 87.3% acurácia simulada
 156 incidentes prevenidos (simulação)
+
 🏗️ Estrutura do Projeto
 brasilia-segura/
 ├── app/
@@ -87,8 +94,10 @@ brasilia-segura/
 └── public/
     ├── icons/         # Ícones PWA
     └── manifest.json  # Manifesto
+    
 👥 Créditos
 Desenvolvido para o Hackathon Campus Party 2025 - Desafio Cidade + Segura
+
 
 📄 Notas
 Este é um projeto demonstrativo com dados totalmente mockados para fins de apresentação no hackathon.
