@@ -121,3 +121,8 @@ Desenvolvido para o **Hackathon Campus Party 2025** - Desafio Cidade + Segura
 ## 📄 Notas
 
 Este é um projeto demonstrativo com dados totalmente mockados para fins de apresentação no hackathon.
+## 🚀 Conheça nosso App
+
+Acesse a demonstração da aplicação clicando no link abaixo:
+
+**[https://tavaresgmg.github.io/brasilia-segura/home/](https://tavaresgmg.github.io/brasilia-segura/home/)** 
