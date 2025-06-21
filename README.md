@@ -78,6 +78,7 @@ Mapa de hotspots com correlações
 156 incidentes prevenidos (simulação)
 
 🏗️ Estrutura do Projeto
+
 brasilia-segura/
 ├── app/
 │   ├── (auth)/         # Login/Registro
